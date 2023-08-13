@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Flipkart Mobile Offers will end by August End </h1>   
+         <h1>Flipkart End of Seasons Sale Starts Now!! </h1>   
 	 
 
     </section>    
